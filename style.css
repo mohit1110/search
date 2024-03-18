@@ -114,7 +114,9 @@ a {
   color: inherit;
   text-decoration: inherit;
 }
-
+.h-\[70vh\]{
+  height: 70vh;
+}
 /*
 Add the correct font weight in Edge and Safari.
 */
