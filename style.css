@@ -1564,15 +1564,15 @@ video {
 }
 
 .bg-\[url\(\'\/images\/7\.jpeg\'\)\] {
-  background-image: url('/images/7.jpeg');
+  background-image: url('images/7.jpeg');
 }
 
 .bg-\[url\(\'\/images\/sliderimg1\.jpg\'\)\] {
-  background-image: url('/images/sliderimg1.jpg');
+  background-image: url('images/sliderimg1.jpg');
 }
 
 .bg-\[url\(\'\/images\/sliderimg2\.jpg\'\)\] {
-  background-image: url('/images/sliderimg2.jpg');
+  background-image: url('images/sliderimg2.jpg');
 }
 
 .bg-\[url\(\'images\/ads-bg\.png\'\)\] {
