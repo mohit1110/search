@@ -1568,11 +1568,11 @@ video {
 }
 
 .bg-\[url\(\'\/images\/sliderimg1\.jpg\'\)\] {
-  background-image: url('images/sliderimg1.jpg');
+  background-image: url('images/htaimages/img1.webp');
 }
 
 .bg-\[url\(\'\/images\/sliderimg2\.jpg\'\)\] {
-  background-image: url('images/sliderimg2.jpg');
+  background-image: url('images/htaimages/img2.webp');
 }
 
 .bg-\[url\(\'images\/ads-bg\.png\'\)\] {
