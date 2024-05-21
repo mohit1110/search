@@ -1477,6 +1477,7 @@
                     if (
                         (duration === '' || course.duration === duration) &&
                         (course_name === '' || course_name.test(course.name)) &&
+                        (language === "" || course.teaching_language === language) &&
                         ((course.tuition_fee !== null ? Number(course.tuition_fee) : 0) >= tuitionMin && (course.tuition_fee !== null ? Number(course.tuition_fee) : 0) <= tuitionMax)
                     ) {
                         totalcourses++;
@@ -1499,6 +1500,7 @@
 
                         (duration === '' || course.duration === duration) &&
                         (course_name === '' || course_name.test(course.name)) &&
+                        (language === "" || course.teaching_language === language) &&
                         ((course.tuition_fee !== null ? Number(course.tuition_fee) : 0) >= tuitionMin && (course.tuition_fee !== null ? Number(course.tuition_fee) : 0) <= tuitionMax)
                     ) {
                         coursesToDisplay++;
